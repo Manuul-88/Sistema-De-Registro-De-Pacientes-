@@ -1,16 +1,5 @@
-# builds
-*.zip
+*.class
 *.exe
 *.jar
-
-# java runtime
-jre/
-
-# carpetas pesadas
-GestorMedico_Portable_Win/
-
-# VSCode
-.vscode/
-
-# binarios
-*.class
+tempCodeRunner*
+*.txt
